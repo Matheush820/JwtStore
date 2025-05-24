@@ -1,0 +1,15 @@
+C:\Users\mathe\Documents\projetos\JwtStore\JwtStore.Infra\bin\Debug\net9.0\JwtStore.Infra.deps.json
+C:\Users\mathe\Documents\projetos\JwtStore\JwtStore.Infra\bin\Debug\net9.0\JwtStore.Infra.dll
+C:\Users\mathe\Documents\projetos\JwtStore\JwtStore.Infra\bin\Debug\net9.0\JwtStore.Infra.pdb
+C:\Users\mathe\Documents\projetos\JwtStore\JwtStore.Infra\bin\Debug\net9.0\JwtStore.Core.dll
+C:\Users\mathe\Documents\projetos\JwtStore\JwtStore.Infra\bin\Debug\net9.0\JwtStore.Core.pdb
+C:\Users\mathe\Documents\projetos\JwtStore\JwtStore.Infra\obj\Debug\net9.0\JwtStore.Infra.csproj.AssemblyReference.cache
+C:\Users\mathe\Documents\projetos\JwtStore\JwtStore.Infra\obj\Debug\net9.0\JwtStore.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Documents\projetos\JwtStore\JwtStore.Infra\obj\Debug\net9.0\JwtStore.Infra.AssemblyInfoInputs.cache
+C:\Users\mathe\Documents\projetos\JwtStore\JwtStore.Infra\obj\Debug\net9.0\JwtStore.Infra.AssemblyInfo.cs
+C:\Users\mathe\Documents\projetos\JwtStore\JwtStore.Infra\obj\Debug\net9.0\JwtStore.Infra.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Documents\projetos\JwtStore\JwtStore.Infra\obj\Debug\net9.0\JwtStore.CB581EA6.Up2Date
+C:\Users\mathe\Documents\projetos\JwtStore\JwtStore.Infra\obj\Debug\net9.0\JwtStore.Infra.dll
+C:\Users\mathe\Documents\projetos\JwtStore\JwtStore.Infra\obj\Debug\net9.0\refint\JwtStore.Infra.dll
+C:\Users\mathe\Documents\projetos\JwtStore\JwtStore.Infra\obj\Debug\net9.0\JwtStore.Infra.pdb
+C:\Users\mathe\Documents\projetos\JwtStore\JwtStore.Infra\obj\Debug\net9.0\ref\JwtStore.Infra.dll

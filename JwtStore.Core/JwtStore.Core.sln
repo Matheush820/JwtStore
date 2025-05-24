@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtStore.Core", "JwtStore.Core.csproj", "{23ECAF7A-F779-4788-8C68-BF0851DF1DCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtStore.Infra", "..\JwtStore.Infra\JwtStore.Infra.csproj", "{B5751652-0DC4-40CB-85FF-2C19648B8E9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtStore.Api", "..\JwtStore.Api\JwtStore.Api.csproj", "{A7B47939-E464-485B-9946-2C31065E8459}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23ECAF7A-F779-4788-8C68-BF0851DF1DCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23ECAF7A-F779-4788-8C68-BF0851DF1DCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23ECAF7A-F779-4788-8C68-BF0851DF1DCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23ECAF7A-F779-4788-8C68-BF0851DF1DCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5751652-0DC4-40CB-85FF-2C19648B8E9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5751652-0DC4-40CB-85FF-2C19648B8E9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5751652-0DC4-40CB-85FF-2C19648B8E9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5751652-0DC4-40CB-85FF-2C19648B8E9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7B47939-E464-485B-9946-2C31065E8459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7B47939-E464-485B-9946-2C31065E8459}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7B47939-E464-485B-9946-2C31065E8459}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7B47939-E464-485B-9946-2C31065E8459}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87E77C06-4504-4972-BBCD-D0F631CDB751}
+	EndGlobalSection
+EndGlobal
